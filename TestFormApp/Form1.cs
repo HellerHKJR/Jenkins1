@@ -19,7 +19,7 @@ namespace TestFormApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("TE   ST1");
+            MessageBox.Show("TEST1");
         }
     }
 }
